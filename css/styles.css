@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+    background-color: aquamarine;
+    height: 200px;
+    }
+.justify-right {
+    text-align: right;
+}
+.main {
+    width: auto;
+    margin: auto;
+}
