@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    background-color: aquamarine;
+    height: 200px;
+    padding-top: 100px;
+    }
+.justify-right {
+    text-align: right;
+}
+.main {
+    width: auto;
+    margin: auto;
+}
